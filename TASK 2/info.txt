@@ -1,1 +1,4 @@
-
+Involves creating an online portfolio using platforms like GitHub or LinkedIn.
+Used to showcase projects, skills, and achievements professionally.
+Emphasizes proper documentation such as README files.
+Builds an online presence useful for internships and career opportunities.
