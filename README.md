@@ -1,3 +1,4 @@
+# My-Digital-Literacy-Project
 The project consists of five structured tasks designed to enhance digital literacy, technical skills, and professional communication among students. Each task focuses on a different aspect of digital competency required in academic and real-world environments.
 Task 1: Infographic focuses on visual communication. In this task, information is presented in a creative and visually appealing format using tools such as Canva or PowerPoint. It helps in simplifying complex concepts through the use of graphics, icons, and structured layouts. This task enhances creativity, design skills, and the ability to communicate ideas effectively.
 Task 2: Digital Portfolio emphasizes building an online professional identity. Students create and manage platforms such as GitHub or LinkedIn to showcase their projects, skills, and achievements. This task highlights the importance of documentation, especially through README files, and helps students prepare for future academic and career opportunities by maintaining a strong digital presence.
@@ -6,4 +7,4 @@ Task 4: Email Etiquette focuses on developing formal communication skills. Stude
 Task 5: Cybercrime raises awareness about online safety and digital responsibility. Through a case study approach, students explore different types of cybercrimes such as phishing, hacking, and identity theft. The task also highlights preventive measures like using strong passwords and avoiding suspicious links. It encourages safe and responsible behavior in the digital world.
 Overall, the project provides a balanced combination of creativity, technical knowledge, communication skills, and awareness of cybersecurity. It prepares students to use digital tools effectively, maintain professionalism online, and stay safe in an increasingly digital environment.
   Link for the google form   https://docs.google.com/forms/d/e/1FAIpQLScEzrNCw931-7z4dPn01CMJEpTpWdQ2_xATcHHnqGH79NyOOA/viewform?usp=publish-editor
-# My-Digital-Literacy-Project
+
